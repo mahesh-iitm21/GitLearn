@@ -4,7 +4,7 @@ Created on Wed May 18 14:58:48 2022
 
 @author: mahes
 """
-
+print(34)
 l="Monkeys write"
 m="New York times"
 a=""
