@@ -5,6 +5,7 @@ Created on Wed May 18 16:39:38 2022
 @author: mahes
 """
 k=[4,5,5,1,2,7]
+print(33)
 l=[4,5,5,1,2,7]
 l.sort()
 print(l)
